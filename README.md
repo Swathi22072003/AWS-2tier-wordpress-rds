@@ -86,5 +86,3 @@ Security Groups:
 - EC2 SG → HTTP/SSH
 - RDS SG → MySQL only from EC2 SG
 
-- ## Screenshots
-- 
